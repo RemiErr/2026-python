@@ -1,29 +1,17 @@
-# Week 03
+# Week 03（115/03/09－115/03/15）
 
 - 主題：字串處理：正規表達式、文字解析、加密與頻率
-- 解題：948 | 10008 | 10019 | 10035 | 10038
-- 作業：實作相關技巧
+- 解題：[100](./QUESTION-100.md) | [118](./QUESTION-118.md) | [272](./QUESTION-272.md) | [299](./QUESTION-299.md) | [490](./QUESTION-490.md)
+- 作業：完成 5 題並提交到 `weeks/week-03/solutions/<student-id>/`
 
 ---
 
 ## 解題清單
 
-| # | 題名 | 難度 | 解題 |
+| # | 題名 | 難度 | 題目檔 |
 |---|------|------|------|
-| [948](./QUESTION-948.md) | UVA 948 | ⭐ | [UVA Online Judge](https://uva.onlinejudge.org/external/index.html) |
-| [10008](./QUESTION-10008.md) | UVA 10008 | ⭐ | [UVA Online Judge](https://uva.onlinejudge.org/external/index.html) |
-| [10019](./QUESTION-10019.md) | UVA 10019 | ⭐ | [UVA Online Judge](https://uva.onlinejudge.org/external/index.html) |
-| [10035](./QUESTION-10035.md) | UVA 10035 | ⭐ | [UVA Online Judge](https://uva.onlinejudge.org/external/index.html) |
-| [10038](./QUESTION-10038.md) | UVA 10038 | ⭐ | [UVA Online Judge](https://uva.onlinejudge.org/external/index.html) |
-
----
-
-## 學習重點
-
-*請根據本週主題填入學習重點*
-
-## 進度追蹤
-
-- [ ] 完成所有題目代碼
-- [ ] 測試全部通過
-- [ ] 程式碼審查完成
+| 100 | UVA 100 | ⭐ | [QUESTION-100.md](./QUESTION-100.md) |
+| 118 | UVA 118 | ⭐ | [QUESTION-118.md](./QUESTION-118.md) |
+| 272 | UVA 272 | ⭐ | [QUESTION-272.md](./QUESTION-272.md) |
+| 299 | UVA 299 | ⭐ | [QUESTION-299.md](./QUESTION-299.md) |
+| 490 | UVA 490 | ⭐ | [QUESTION-490.md](./QUESTION-490.md) |

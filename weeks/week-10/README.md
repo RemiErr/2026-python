@@ -1,29 +1,17 @@
-# Week 10
+# Week 10（115/04/27－115/05/03）
 
 - 主題：函式進階：裝飾器與高階函數
-- 解題：10409 | 10415 | 10420 | 10642 | 10783
-- 作業：實作相關技巧
+- 解題：[10226](./QUESTION-10226.md) | [10235](./QUESTION-10235.md) | [10242](./QUESTION-10242.md) | [10252](./QUESTION-10252.md) | [10268](./QUESTION-10268.md)
+- 作業：完成 5 題並提交到 `weeks/week-10/solutions/<student-id>/`
 
 ---
 
 ## 解題清單
 
-| # | 題名 | 難度 | 解題 |
+| # | 題名 | 難度 | 題目檔 |
 |---|------|------|------|
-| [10409](./QUESTION-10409.md) | UVA 10409 | ⭐ | [UVA Online Judge](https://uva.onlinejudge.org/external/index.html) |
-| [10415](./QUESTION-10415.md) | UVA 10415 | ⭐ | [UVA Online Judge](https://uva.onlinejudge.org/external/index.html) |
-| [10420](./QUESTION-10420.md) | UVA 10420 | ⭐ | [UVA Online Judge](https://uva.onlinejudge.org/external/index.html) |
-| [10642](./QUESTION-10642.md) | UVA 10642 | ⭐ | [UVA Online Judge](https://uva.onlinejudge.org/external/index.html) |
-| [10783](./QUESTION-10783.md) | UVA 10783 | ⭐ | [UVA Online Judge](https://uva.onlinejudge.org/external/index.html) |
-
----
-
-## 學習重點
-
-*請根據本週主題填入學習重點*
-
-## 進度追蹤
-
-- [ ] 完成所有題目代碼
-- [ ] 測試全部通過
-- [ ] 程式碼審查完成
+| 10226 | UVA 10226 | ⭐ | [QUESTION-10226.md](./QUESTION-10226.md) |
+| 10235 | UVA 10235 | ⭐ | [QUESTION-10235.md](./QUESTION-10235.md) |
+| 10242 | UVA 10242 | ⭐ | [QUESTION-10242.md](./QUESTION-10242.md) |
+| 10252 | UVA 10252 | ⭐ | [QUESTION-10252.md](./QUESTION-10252.md) |
+| 10268 | UVA 10268 | ⭐ | [QUESTION-10268.md](./QUESTION-10268.md) |

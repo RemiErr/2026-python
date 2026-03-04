@@ -1,28 +1,17 @@
-# Week 13
+# Week 13（115/05/18－115/05/24）
 
 - 主題：綜合專案：Metaprogramming、測試、CPE 模擬考
-- 解題：11349 | 11417 | 11461 | 12019
-- 作業：實作相關技巧
+- 解題：[11005](./QUESTION-11005.md) | [11063](./QUESTION-11063.md) | [11150](./QUESTION-11150.md) | [11321](./QUESTION-11321.md) | [11332](./QUESTION-11332.md)
+- 作業：完成 5 題並提交到 `weeks/week-13/solutions/<student-id>/`
 
 ---
 
 ## 解題清單
 
-| # | 題名 | 難度 | 解題 |
+| # | 題名 | 難度 | 題目檔 |
 |---|------|------|------|
-| [11349](./QUESTION-11349.md) | UVA 11349 | ⭐ | [UVA Online Judge](https://uva.onlinejudge.org/external/index.html) |
-| [11417](./QUESTION-11417.md) | UVA 11417 | ⭐ | [UVA Online Judge](https://uva.onlinejudge.org/external/index.html) |
-| [11461](./QUESTION-11461.md) | UVA 11461 | ⭐ | [UVA Online Judge](https://uva.onlinejudge.org/external/index.html) |
-| [12019](./QUESTION-12019.md) | UVA 12019 | ⭐ | [UVA Online Judge](https://uva.onlinejudge.org/external/index.html) |
-
----
-
-## 學習重點
-
-*請根據本週主題填入學習重點*
-
-## 進度追蹤
-
-- [ ] 完成所有題目代碼
-- [ ] 測試全部通過
-- [ ] 程式碼審查完成
+| 11005 | UVA 11005 — Cheapest Base | ⭐ | [QUESTION-11005.md](./QUESTION-11005.md) |
+| 11063 | UVA 11063 | ⭐ | [QUESTION-11063.md](./QUESTION-11063.md) |
+| 11150 | UVA 11150 | ⭐ | [QUESTION-11150.md](./QUESTION-11150.md) |
+| 11321 | UVA 11321 | ⭐ | [QUESTION-11321.md](./QUESTION-11321.md) |
+| 11332 | UVA 11332 | ⭐ | [QUESTION-11332.md](./QUESTION-11332.md) |

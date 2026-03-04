@@ -1,29 +1,17 @@
-# Week 07
+# Week 07（115/04/06－115/04/12）
 
 - 主題：檔案 I/O 基礎：多筆輸入處理
-- 解題：10189 | 10190 | 10193 | 10221 | 10222
-- 作業：實作相關技巧
+- 解題：[10062](./QUESTION-10062.md) | [10071](./QUESTION-10071.md) | [10093](./QUESTION-10093.md) | [10101](./QUESTION-10101.md) | [10170](./QUESTION-10170.md)
+- 作業：完成 5 題並提交到 `weeks/week-07/solutions/<student-id>/`
 
 ---
 
 ## 解題清單
 
-| # | 題名 | 難度 | 解題 |
+| # | 題名 | 難度 | 題目檔 |
 |---|------|------|------|
-| [10189](./QUESTION-10189.md) | UVA 10189 | ⭐ | [UVA Online Judge](https://uva.onlinejudge.org/external/index.html) |
-| [10190](./QUESTION-10190.md) | UVA 10190 | ⭐ | [UVA Online Judge](https://uva.onlinejudge.org/external/index.html) |
-| [10193](./QUESTION-10193.md) | UVA 10193 | ⭐ | [UVA Online Judge](https://uva.onlinejudge.org/external/index.html) |
-| [10221](./QUESTION-10221.md) | UVA 10221 | ⭐ | [UVA Online Judge](https://uva.onlinejudge.org/external/index.html) |
-| [10222](./QUESTION-10222.md) | UVA 10222 | ⭐ | [UVA Online Judge](https://uva.onlinejudge.org/external/index.html) |
-
----
-
-## 學習重點
-
-*請根據本週主題填入學習重點*
-
-## 進度追蹤
-
-- [ ] 完成所有題目代碼
-- [ ] 測試全部通過
-- [ ] 程式碼審查完成
+| 10062 | UVA 10062 | ⭐ | [QUESTION-10062.md](./QUESTION-10062.md) |
+| 10071 | UVA 10071 | ⭐ | [QUESTION-10071.md](./QUESTION-10071.md) |
+| 10093 | UVA 10093 | ⭐ | [QUESTION-10093.md](./QUESTION-10093.md) |
+| 10101 | UVA 10101 | ⭐ | [QUESTION-10101.md](./QUESTION-10101.md) |
+| 10170 | UVA 10170 — The Hotel with Infinite Rooms | ⭐ | [QUESTION-10170.md](./QUESTION-10170.md) |

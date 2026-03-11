@@ -2,9 +2,7 @@
 
 以開源專案常見結構整理每週課程與解題進度，方便協作、版本控管與後續擴充。
 
-## 🎯 快速開始
-
-**首次使用？** 👉 閱讀 [`docs/analysis/FINAL_SUMMARY.md`](docs/analysis/FINAL_SUMMARY.md) 了解項目現況與優先級建議（15 分鐘）
+:point_right: 加入課程 DC https://discord.gg/uFzPj3TyW6
 
 ## 📁 目錄結構
 

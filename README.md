@@ -55,6 +55,22 @@
 - 學生提交指南：[`docs/SUBMISSION_GUIDE.md`](docs/SUBMISSION_GUIDE.md)
 - 助教評分指南：[`docs/TA_GRADING_GUIDE.md`](docs/TA_GRADING_GUIDE.md)
 
+### Week 03 任務
+- 週次說明：[`weeks/week-03/README.md`](weeks/week-03/README.md)
+- 題目範圍：UVA 100、118、272、299、490
+- 建議流程：
+	1. 讀題目說明並先設計 Python unit test
+	2. 完成正式解題程式並執行測試
+	3. 補上繁體中文註解
+	4. 額外提供一版 easy（好記憶）版本
+	5. 補上 easy 版本的繁體中文詳細註解
+- 送出內容（2 程式、1 測試、1 測試紀錄）：
+	- AI 教學的簡單版本（含中文註解）
+	- 你手打的正式程式
+	- 測試程式
+	- 你手打程式的測試 LOG 記錄
+- 建議放置路徑：`weeks/week-03/solutions/<student-id>/`
+
 ### 題目文件品質狀態（依 `CHECK_LIST.md`）
 - 最後更新：2026-03-04
 - 品質檢查：49 / 49 題通過（繁體中文、Markdown 排版、粗體標記、真實題目）

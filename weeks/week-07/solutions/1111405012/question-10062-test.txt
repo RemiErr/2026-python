@@ -1,0 +1,7 @@
+test_all_small_permutations (__main__.Question10062Tests) ... ok
+test_command_line_smoke (__main__.Question10062Tests) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.130s
+
+OK

@@ -1,0 +1,7 @@
+test_all_terrain_patterns_on_3x3 (__main__.Question10093Tests) ... ok
+test_command_line_smoke (__main__.Question10093Tests) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.127s
+
+OK

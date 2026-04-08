@@ -1,0 +1,8 @@
+test_command_line_smoke (__main__.Question10170Tests) ... ok
+test_multiple_lines (__main__.Question10170Tests) ... ok
+test_small_values (__main__.Question10170Tests) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.095s
+
+OK

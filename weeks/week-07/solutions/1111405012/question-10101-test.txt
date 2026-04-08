@@ -1,0 +1,8 @@
+test_all_false_one_digit_equations (__main__.Question10101Tests) ... ok
+test_command_line_smoke (__main__.Question10101Tests) ... ok
+test_ignore_text_after_hash (__main__.Question10101Tests) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.656s
+
+OK

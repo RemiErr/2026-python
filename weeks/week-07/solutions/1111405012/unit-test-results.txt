@@ -1,0 +1,29 @@
+test_consume_helpers (test_r_01_iterator_basics.TestR01IteratorBasics) ... ok
+test_countdown_iterator (test_r_01_iterator_basics.TestR01IteratorBasics) ... ok
+test_iterable_and_iterator_checks (test_r_01_iterator_basics.TestR01IteratorBasics) ... ok
+test_normalize_spaces_and_clean_lines (test_u01_strings_split_gotchas.TestU01StringsSplitGotchas) ... ok
+test_safe_startswith (test_u01_strings_split_gotchas.TestU01StringsSplitGotchas) ... ok
+test_split_and_rebuild (test_u01_strings_split_gotchas.TestU01StringsSplitGotchas) ... ok
+test_find_dates (test_u02_regex_advanced.TestU02RegexAdvanced) ... ok
+test_replace_python_word (test_u02_regex_advanced.TestU02RegexAdvanced) ... ok
+test_rewrite_dates (test_u02_regex_advanced.TestU02RegexAdvanced) ... ok
+test_concat_methods (test_u03_strings_format_perf.TestU03StringsFormatPerf) ... ok
+test_safe_format (test_u03_strings_format_perf.TestU03StringsFormatPerf) ... ok
+test_text_and_bytes_behavior (test_u03_strings_format_perf.TestU03StringsFormatPerf) ... ok
+test_bankers_round (test_u04_numbers_precision.TestU04NumbersPrecision) ... ok
+test_nan_and_decimal_examples (test_u04_numbers_precision.TestU04NumbersPrecision) ... ok
+test_traditional_round (test_u04_numbers_precision.TestU04NumbersPrecision) ... ok
+test_add_one_month (test_u05_datetime_gotchas.TestU05DatetimeGotchas) ... ok
+test_parse_methods (test_u05_datetime_gotchas.TestU05DatetimeGotchas) ... ok
+test_timedelta_month_error (test_u05_datetime_gotchas.TestU05DatetimeGotchas) ... ok
+test_dst_boundary (test_u06_datetime_timezone.TestU06DatetimeTimezone) ... ok
+test_parse_and_convert (test_u06_datetime_timezone.TestU06DatetimeTimezone) ... ok
+test_requires_aware_datetime (test_u06_datetime_timezone.TestU06DatetimeTimezone) ... ok
+test_independent_random_values (test_u07_random_advanced.TestU07RandomAdvanced) ... ok
+test_repeatable_sequence (test_u07_random_advanced.TestU07RandomAdvanced) ... ok
+test_secure_helpers (test_u07_random_advanced.TestU07RandomAdvanced) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.005s
+
+OK

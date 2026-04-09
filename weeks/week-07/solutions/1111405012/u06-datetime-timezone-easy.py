@@ -1,10 +1,8 @@
 from __future__ import annotations
 
 from datetime import datetime, timedelta
-from zoneinfo import ZoneInfo
 
-
-UTC = ZoneInfo("UTC")
+from simple_timezones import UTC, get_timezone
 
 
 def add_minutes_locally(local_dt: datetime, minutes: int) -> datetime:
@@ -21,11 +19,11 @@ def add_minutes_via_utc(local_dt: datetime, minutes: int) -> datetime:
 
 
 def parse_local_to_utc(text: str, tz_name: str) -> datetime:
-    local_dt = datetime.strptime(text, "%Y-%m-%d %H:%M:%S").replace(tzinfo=ZoneInfo(tz_name))
+    local_dt = datetime.strptime(text, "%Y-%m-%d %H:%M:%S").replace(tzinfo=get_timezone(tz_name))
     return local_dt.astimezone(UTC)
 
 
 def convert_utc_to_timezone(utc_dt: datetime, tz_name: str) -> datetime:
     if utc_dt.tzinfo is None:
         raise ValueError("utc_dt 必須是 aware datetime")
-    return utc_dt.astimezone(ZoneInfo(tz_name))
+    return utc_dt.astimezone(get_timezone(tz_name))

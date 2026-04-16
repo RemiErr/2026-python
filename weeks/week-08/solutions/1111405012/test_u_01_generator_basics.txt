@@ -1,0 +1,9 @@
+test_fibonacci_and_chain (weeks.week-08.solutions.1111405012.test_u_01_generator_basics.TestGeneratorBasics) ... ok
+test_frange_and_countdown (weeks.week-08.solutions.1111405012.test_u_01_generator_basics.TestGeneratorBasics) ... ok
+test_render_demo (weeks.week-08.solutions.1111405012.test_u_01_generator_basics.TestGeneratorBasics) ... ok
+test_tree_and_flatten (weeks.week-08.solutions.1111405012.test_u_01_generator_basics.TestGeneratorBasics) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK

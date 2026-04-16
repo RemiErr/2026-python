@@ -1,0 +1,9 @@
+test_enumerate_examples (weeks.week-08.solutions.1111405012.test_r_02_enumerate_zip.TestEnumerateZip) ... ok
+test_make_dict (weeks.week-08.solutions.1111405012.test_r_02_enumerate_zip.TestEnumerateZip) ... ok
+test_render_demo (weeks.week-08.solutions.1111405012.test_r_02_enumerate_zip.TestEnumerateZip) ... ok
+test_zip_examples (weeks.week-08.solutions.1111405012.test_r_02_enumerate_zip.TestEnumerateZip) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK

@@ -1,0 +1,8 @@
+test_no_umbrella (__main__.Question10190Test) ... ok
+test_reference_case (__main__.Question10190Test) ... ok
+test_static_umbrellas (__main__.Question10190Test) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.975s
+
+OK

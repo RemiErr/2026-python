@@ -1,0 +1,8 @@
+test_a_is_five (__main__.Question10193Test) ... ok
+test_a_is_one (__main__.Question10193Test) ... ok
+test_a_is_three (__main__.Question10193Test) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 1.010s
+
+OK

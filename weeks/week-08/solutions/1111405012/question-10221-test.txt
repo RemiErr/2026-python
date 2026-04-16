@@ -1,0 +1,7 @@
+test_sample_case (__main__.Question10221Test) ... ok
+test_zero_arc_after_full_turn (__main__.Question10221Test) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.739s
+
+OK

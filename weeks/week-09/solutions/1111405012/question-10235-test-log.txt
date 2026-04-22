@@ -1,0 +1,7 @@
+test_sample_cases (weeks.week-09.solutions.1111405012.test_question_10235.Question10235Tests.test_sample_cases) ... ok
+test_small_boards (weeks.week-09.solutions.1111405012.test_question_10235.Question10235Tests.test_small_boards) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.197s
+
+OK

@@ -1,0 +1,7 @@
+test_path_through_scc (weeks.week-09.solutions.1111405012.test_question_10242.Question10242Tests.test_path_through_scc) ... ok
+test_start_scc_is_also_a_bar (weeks.week-09.solutions.1111405012.test_question_10242.Question10242Tests.test_start_scc_is_also_a_bar) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.231s
+
+OK

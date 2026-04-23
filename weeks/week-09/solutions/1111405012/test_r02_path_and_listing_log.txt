@@ -1,0 +1,15 @@
+test_build_week_path (test_r02_path_and_listing.TestPathAndListing.test_build_week_path) ... ok
+test_check_path_status (test_r02_path_and_listing.TestPathAndListing.test_check_path_status) ... ok
+test_describe_path (test_r02_path_and_listing.TestPathAndListing.test_describe_path) ... ok
+test_first_rglob_py (test_r02_path_and_listing.TestPathAndListing.test_first_rglob_py) ... ok
+test_glob_py_files (test_r02_path_and_listing.TestPathAndListing.test_glob_py_files) ... ok
+test_join_with_os (test_r02_path_and_listing.TestPathAndListing.test_join_with_os) ... ok
+test_list_directory_names (test_r02_path_and_listing.TestPathAndListing.test_list_directory_names) ... ok
+test_missing_message (test_r02_path_and_listing.TestPathAndListing.test_missing_message) ... ok
+test_rglob_py_files (test_r02_path_and_listing.TestPathAndListing.test_rglob_py_files) ... ok
+test_run_examples (test_r02_path_and_listing.TestPathAndListing.test_run_examples) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.135s
+
+OK

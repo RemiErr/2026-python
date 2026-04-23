@@ -1,0 +1,11 @@
+test_build_string_buffer_and_get_text (test_u04_stringio_and_lines.TestStringIoAndLines.test_build_string_buffer_and_get_text) ... ok
+test_create_csv_in_memory (test_u04_stringio_and_lines.TestStringIoAndLines.test_create_csv_in_memory) ... ok
+test_number_nonempty_lines (test_u04_stringio_and_lines.TestStringIoAndLines.test_number_nonempty_lines) ... ok
+test_read_buffer_lines_with_numbers (test_u04_stringio_and_lines.TestStringIoAndLines.test_read_buffer_lines_with_numbers) ... ok
+test_run_examples (test_u04_stringio_and_lines.TestStringIoAndLines.test_run_examples) ... ok
+test_write_poem_file (test_u04_stringio_and_lines.TestStringIoAndLines.test_write_poem_file) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.105s
+
+OK

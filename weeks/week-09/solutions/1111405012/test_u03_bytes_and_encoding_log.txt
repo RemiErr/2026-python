@@ -1,0 +1,11 @@
+test_first_bytes_as_numbers (test_u03_bytes_and_encoding.TestBytesAndEncoding.test_first_bytes_as_numbers) ... ok
+test_run_examples (test_u03_bytes_and_encoding.TestBytesAndEncoding.test_run_examples) ... ok
+test_text_and_bytes_conversion (test_u03_bytes_and_encoding.TestBytesAndEncoding.test_text_and_bytes_conversion) ... ok
+test_write_and_read_fake_png (test_u03_bytes_and_encoding.TestBytesAndEncoding.test_write_and_read_fake_png) ... ok
+test_write_and_read_utf8_text (test_u03_bytes_and_encoding.TestBytesAndEncoding.test_write_and_read_utf8_text) ... ok
+test_wrong_encoding_returns_error_info (test_u03_bytes_and_encoding.TestBytesAndEncoding.test_wrong_encoding_returns_error_info) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.135s
+
+OK

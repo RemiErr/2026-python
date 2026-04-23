@@ -1,0 +1,10 @@
+test_run_examples (test_r01_text_io_basics.TestTextIoBasics.test_run_examples) ... ok
+test_text_mode_bytes_error (test_r01_text_io_basics.TestTextIoBasics.test_text_mode_bytes_error) ... ok
+test_write_and_append_csv_text (test_r01_text_io_basics.TestTextIoBasics.test_write_and_append_csv_text) ... ok
+test_write_and_read_hello_file (test_r01_text_io_basics.TestTextIoBasics.test_write_and_read_hello_file) ... ok
+test_write_log_file (test_r01_text_io_basics.TestTextIoBasics.test_write_log_file) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.119s
+
+OK

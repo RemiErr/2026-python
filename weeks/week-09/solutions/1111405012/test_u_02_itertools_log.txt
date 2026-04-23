@@ -1,0 +1,16 @@
+test_chain_values (test_u_02_itertools.TestItertoolsExamples.test_chain_values) ... ok
+test_count_generator (test_u_02_itertools.TestItertoolsExamples.test_count_generator) ... ok
+test_drop_until_limit (test_u_02_itertools.TestItertoolsExamples.test_drop_until_limit) ... ok
+test_get_combinations (test_u_02_itertools.TestItertoolsExamples.test_get_combinations) ... ok
+test_get_permutations (test_u_02_itertools.TestItertoolsExamples.test_get_permutations) ... ok
+test_get_permutations_with_length (test_u_02_itertools.TestItertoolsExamples.test_get_permutations_with_length) ... ok
+test_password_candidates (test_u_02_itertools.TestItertoolsExamples.test_password_candidates) ... ok
+test_repeated_password_candidates (test_u_02_itertools.TestItertoolsExamples.test_repeated_password_candidates) ... ok
+test_run_examples (test_u_02_itertools.TestItertoolsExamples.test_run_examples) ... ok
+test_slice_count (test_u_02_itertools.TestItertoolsExamples.test_slice_count) ... ok
+test_take_until_limit (test_u_02_itertools.TestItertoolsExamples.test_take_until_limit) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.002s
+
+OK

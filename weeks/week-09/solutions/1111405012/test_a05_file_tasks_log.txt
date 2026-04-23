@@ -1,0 +1,9 @@
+test_count_py (test_a05_file_tasks.TestA05FileTasks.test_count_py) ... ok
+test_create_diary_once_only (test_a05_file_tasks.TestA05FileTasks.test_create_diary_once_only) ... ok
+test_format_stats (test_a05_file_tasks.TestA05FileTasks.test_format_stats) ... ok
+test_run_examples (test_a05_file_tasks.TestA05FileTasks.test_run_examples) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.093s
+
+OK

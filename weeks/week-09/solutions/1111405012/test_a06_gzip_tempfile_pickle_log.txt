@@ -1,0 +1,11 @@
+test_gzip_bytes_roundtrip (test_a06_gzip_tempfile_pickle.TestA06GzipTempfilePickle.test_gzip_bytes_roundtrip) ... ok
+test_gzip_text_roundtrip (test_a06_gzip_tempfile_pickle.TestA06GzipTempfilePickle.test_gzip_text_roundtrip) ... ok
+test_named_temporary_file_cleanup (test_a06_gzip_tempfile_pickle.TestA06GzipTempfilePickle.test_named_temporary_file_cleanup) ... ok
+test_pickle_roundtrip (test_a06_gzip_tempfile_pickle.TestA06GzipTempfilePickle.test_pickle_roundtrip) ... ok
+test_run_examples (test_a06_gzip_tempfile_pickle.TestA06GzipTempfilePickle.test_run_examples) ... ok
+test_temporary_directory_cleanup (test_a06_gzip_tempfile_pickle.TestA06GzipTempfilePickle.test_temporary_directory_cleanup) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.269s
+
+OK
